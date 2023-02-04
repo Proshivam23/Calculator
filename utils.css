@@ -6,3 +6,11 @@
     justify-content: center;
     align-items: center;
 }
+
+.inline{
+    display: inline-flex;
+}
+
+.text-align{
+    text-align: center;
+}

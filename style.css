@@ -47,11 +47,22 @@ body{
 }
 
 .text{
+    flex-wrap: wrap;
     font-size: 50px;
     border: 3px solid white;
     color: white;
     font-family: 'Roboto';
     font-weight: bold;
+    padding: 10px 10px;
+}
+.container2{
+    margin: 20px;
+}
+
+
+button:hover{
+    background-color: rgb(115, 138, 255);
+    color: white;
 }
 /* .row1 input{
     justify-content: center;
